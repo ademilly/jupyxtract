@@ -1,0 +1,12 @@
+{
+  "name": "jupyxtract",
+  "version": "1.0.0",
+  "description": "Extract sources from jupyter notebook files",
+  "main": "jupyextract.js",
+  "repository": "git@github.com:ademilly/jupyxtract.git",
+  "author": "Aurélien Demilly <demilly.aurelien@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^9.4.6"
+  }
+}
